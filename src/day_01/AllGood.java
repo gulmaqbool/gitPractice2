@@ -5,5 +5,6 @@ public class AllGood {
 
         System.out.println("I hope everything is Good.");
         //I love to code.
+
     }
 }
